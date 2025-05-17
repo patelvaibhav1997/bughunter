@@ -108,3 +108,4 @@ Message your favorite AI sidekick. 😉
 ---
 
 Happy hunting! 🐛💰
+Built with ❤️ by https://loyaltyinfoway.com
